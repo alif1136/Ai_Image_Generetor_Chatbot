@@ -31,8 +31,8 @@ A modern Flutter-based AI chatbot application that can generate images from text
 
 Add your screenshots here.
 
-| Chat Screen | Image Generation |
-|-------------|-----------------|
+| Chat Screen |
+|-------------|
 | ![](assets/screenshots/chat.png) | 
 | <img width="513" height="921" alt="Poject S_shot" src="https://github.com/user-attachments/assets/780e43e5-56b8-4d06-b574-168f4b2b8735" /> |
 
