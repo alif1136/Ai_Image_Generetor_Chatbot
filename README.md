@@ -34,6 +34,7 @@ Add your screenshots here.
 | Chat Screen | Image Generation |
 |-------------|-----------------|
 | ![](assets/screenshots/chat.png) | ![](assets/screenshots/image.png) |
+| <img width="513" height="921" alt="Poject S_shot" src="https://github.com/user-attachments/assets/780e43e5-56b8-4d06-b574-168f4b2b8735" /> |
 
 ---
 
@@ -153,4 +154,4 @@ If you like this project, give it a ⭐ on GitHub!
 
 ## 📄 License
 
-This project is licensed under the MIT License.<img width="513" height="921" alt="Poject S_shot" src="https://github.com/user-attachments/assets/ad437c6d-055f-4860-89cb-c7d2f70a4435" />
+This project is licensed under the MIT License.
